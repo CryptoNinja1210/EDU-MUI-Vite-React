@@ -47,16 +47,12 @@ export default function Landing() {
 								mt= {{lg: 0, xs: 2}}
 								fontSize= {{ xl: 70, md: 65, sm: 55, xs: 30}}
 							>Expolore 1,000+ <br/>Free Online Courses</Typography>
-							<Typography color={'red'}>Dear client.<br/> Did you review about my work<br/>
-								Contact me please.<br/>
-								https://t.me/MERNDEV1101<br/>
-							</Typography>
 						</Box>
 						<Box>
-							{/* <Typography variant='h6' fontWeight={700}>
+							<Typography variant='h6' fontWeight={700}>
 								Lorem ipsum dolor sit amet,<br/>
 								consectetur adipiscing elit. Ut elit tellus....
-							</Typography> */}
+							</Typography>
 						</Box>
 					</Box>
 					<Stack
